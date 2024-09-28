@@ -1,0 +1,11 @@
+# Ignore temp files, build files, and other generated files
+[Aa]pp_BackUpThisFolder_ButDontShipItWithYourGame/
+[Aa]ssets/[Oo]culus/
+[Bb]uildApp_BackUpThisFolder_ButDontShipItWithYourGame/
+[Ll]ibrary/
+[Ll]ogs/
+[Oo]bj/
+[Bb]uild/
+[Tt]emp/
+*.apk
+*.csproj
