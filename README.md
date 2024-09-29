@@ -1,4 +1,4 @@
-# Unity-BallRabyrinth
+# Unity-BallLabyrinth
 This is a Unity project for a VR (Virtual Reality) escape game from an ancient room of my own creation. Please note that this project is intended for Quest as a HMD  (Head-Mounted Display) and cannot be run on other devices.
 
 <p align="center">
@@ -9,7 +9,7 @@ This is a Unity project for a VR (Virtual Reality) escape game from an ancient r
 
 
 ## 概要
-Ball RabyrinthはUnity3Dで作成した古代の部屋からのVR脱出ゲームです．難易度はそれほど高くなく，誰でも簡単に楽しくプレイすることが出来ます．対象としているHMDはQuestとなっており，Quest2及びQuest3において，問題なく実行出来ることは確認済みです．Questを対象としたScriptとなっているため，その他HMDでは実行することが出来ませんのでご注意ください．また，Oculus Integrationは本リポジトリに含まれていないため，本branchをclone後に各々でimportして頂きますよう，よろしくお願いします．詳細な手順は以下に示してあります．
+Ball LabyrinthはUnity3Dで作成した古代の部屋からのVR脱出ゲームです．難易度はそれほど高くなく，誰でも簡単に楽しくプレイすることが出来ます．対象としているHMDはQuestとなっており，Quest2及びQuest3において，問題なく実行出来ることは確認済みです．Questを対象としたScriptとなっているため，その他HMDでは実行することが出来ませんのでご注意ください．また，Oculus Integrationは本リポジトリに含まれていないため，本branchをclone後に各々でimportして頂きますよう，よろしくお願いします．詳細な手順は以下に示してあります．
 <br><br>
 
 
@@ -20,7 +20,7 @@ Ball RabyrinthはUnity3Dで作成した古代の部屋からのVR脱出ゲーム
     - 以下のコマンドを用いて本branchをlocal repositoryへclone
     
     ```
-    git clone https://github.com/MSTS-S/Unity-BallRabyrinth.git
+    git clone https://github.com/MSTS-S/Unity-BallLabyrinth.git
     ```
 
 2. projectを開く
